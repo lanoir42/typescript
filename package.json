@@ -1,0 +1,26 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "이 프로젝트는 <타입스크립트, AWS 서버리스로 들어올리다> 책을 따라가면서 공부하는 로그를 기록하기 위해 만들었습니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanoir42/typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "node.js",
+    "github",
+    "aws",
+    "serverless"
+  ],
+  "author": "lanoir42",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lanoir42/typescript/issues"
+  },
+  "homepage": "https://github.com/lanoir42/typescript#readme"
+}
